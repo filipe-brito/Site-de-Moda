@@ -1,0 +1,31 @@
+.portfolio h2{
+    font-size: 40px;
+    margin: 60px 0;
+    text-align: center;
+}
+
+.portfolio p{
+    text-align: center;
+    line-height: 36px;
+}
+
+.portfolio ul{
+    margin: 60px 0;
+    list-style: none;
+    overflow: auto;
+}
+
+.portfolio li{
+    float: left;
+    width: 32%;
+    text-align: center;
+    color: rgb(86, 84, 87);
+}
+
+.modelo1, .modelo2{
+    margin-right: 2%;
+}
+
+.portfolio li img{
+    width: 100%;
+}
